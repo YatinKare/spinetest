@@ -1,5 +1,1 @@
-<img src="assets/icon.svg" width="64" height="64" alt="">
-
-# SpineTest
-
-Created in [T3 Code](https://t3.codes).
+A bilingual Svelte app for scoliosis self-observation, curve estimates, and exercise guidance.
